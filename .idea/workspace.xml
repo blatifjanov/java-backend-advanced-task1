@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a79e3854-7f1b-436c-a86e-ab9123a273e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-bank-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-bank-api/src/main/java/com/epam/jmp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-bank-api/src/main/java/com/epam/jmp/service/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-bank-api/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-bank-api/src/test/java/com/epam/jmp/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-cloud-bank-impl/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-cloud-bank-impl/src/main/java/com/epam/jmp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-cloud-bank-impl/src/main/java/com/epam/jmp/impl/BankImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-cloud-bank-impl/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-cloud-bank-impl/src/test/java/com/epam/jmp/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-cloud-service-impl/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-cloud-service-impl/src/main/java/com/epam/jmp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-cloud-service-impl/src/main/java/com/epam/jmp/impl/ServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-cloud-service-impl/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-cloud-service-impl/src/test/java/com/epam/jmp/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-dto/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/BankCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/BankCardType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/CreditBankCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/DebitBankCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/Subscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-dto/src/test/java/com/epam/jmp/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-service-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-service-api/src/main/java/com/epam/jmp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-service-api/src/main/java/com/epam/jmp/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-service-api/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-service-api/src/test/java/com/epam/jmp/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/jmp/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ol9c67gc9I3OzQBjSEQLlRya1H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/Bakhovuddin_Latifjan/Desktop/JAVA CORE/jmp-parent/jmp-dto/src/main/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bakhovuddin_Latifjan\Desktop\JAVA CORE\jmp-parent\jmp-dto\src\main\java" />
+      <recent name="C:\Users\Bakhovuddin_Latifjan\Desktop\JAVA CORE\jmp-parent" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in jmp-parent">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.jmp.App" />
+      <module name="jmp-dto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.jmp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in jmp-parent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jmp-parent" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in jmp-parent" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a79e3854-7f1b-436c-a86e-ab9123a273e7" name="Changes" comment="" />
+      <created>1731433372831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731433372831</updated>
+    </task>
+    <servers />
+  </component>
+</project>
